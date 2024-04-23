@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter Inneh</h1>
+<h1 align="center">Hey there 👋🏾, I'm Peter Inneh</h1>
 <h3 align="center">A curious Cloud Engineer from Miami, FL</h3>
 
 - 🔭 I’m currently working on **Onboard Automator**
