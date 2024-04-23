@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The Onboard Automator**
 
-- 🌱 I’m currently learning **Azure Compute - App Service and Containers**
+- 🌱 I’m currently learning **Azure Compute (App Service and Containers)**
 
 - 💬 Ask me about **Bash,Powershell, Entra ID, & iOS Jailbrakeing**
 
