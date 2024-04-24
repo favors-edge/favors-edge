@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **The Onboard Automator**
 
-- 🌱 I’m currently learning **Azure Compute (App Service and Containers)**
+- 🌱 I’m currently exploring **Azure Compute (App Service and Containers)**
 
 - 💬 Ask me about **Bash,Powershell, Entra ID, & iOS Jailbrakeing**
 
 - 📫 How to reach me **innehpeter@yahoo.com**
 
-- ⚡ Fun fact **I feel no icecream flavor other than cookies & cream should exist!**
+- ⚡ Fun fact **I feel no icecream flavor other than cookies & cream should exist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
