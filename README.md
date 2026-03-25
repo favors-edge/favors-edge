@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **Azure Compute (App Service and Containers)**
 
-- 💬 Ask me about **Bash,Powershell, Entra ID, Expedition 33 & iOS Jailbreaking**
+- 💬 Ask me about **Bash, Powershell, Entra ID, Expedition 33 & iOS Jailbreaking**
 
 - 📫 How to reach me **innehpeter@yahoo.com**
 
