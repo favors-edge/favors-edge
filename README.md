@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋🏾, I'm Peter Inneh</h1>
 <h3 align="center">A curious Cloud Engineer from Miami, FL</h3>
 
-- 🔭 I’m currently working on **The Onboard Automator**
+- 🔭 I’m currently working on **IaC using HCL**
 
 - 🌱 I’m currently exploring **Azure Compute (App Service and Containers)**
 
